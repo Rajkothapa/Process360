@@ -1,0 +1,30 @@
+DT is to manipulate the data 
+
+1.set ------------------choose a property to manipulate Data 
+
+2.Remove ------------Remove property from Clipboard 
+
+3.Update Page ---------
+
+4.Apply DT ------calling another DT 
+
+5. Sort ----------sort the pagelist in Ascending order or descending order 
+
+6. Comment ----------- in future someboady get to know -----write comment for best practices 
+
+
+
+
+
+
+7. when ------------------
+
+8.otherwisewhen ------
+
+9. otherwise 
+
+
+
+
+10.Append to -----------
+11. Append and Mapto -----------
